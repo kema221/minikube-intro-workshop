@@ -38,7 +38,7 @@ We're modifying [Get Started Tutorial](https://docs.docker.com/get-started/) fro
 
   You may choose between **_Stable_** or **_Edge_** versions.
 
-* [Docker Toolbox](https://docs.docker.com/toolbox/oerview)  
+* [Docker Toolbox](https://docs.docker.com/toolbox/overview)  
   If your Windows or Mac system doesn't meet the above requirements, this is what you'll need.  
   Docker Toolbox comes with VirtualBox and Git, and launches a virtual machine (Docker Machine) where Docker will be installed and run.
 
